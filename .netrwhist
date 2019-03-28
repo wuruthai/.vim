@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/onurirken/Projects/ClearsightFE/src/view/pages'
+let g:netrw_dirhist_2='/Users/onurirken/Projects/ClearsightFE/src/view/pages/Recipes'
+let g:netrw_dirhist_3='/Users/onurirken/Projects/ClearsightFE/src/view/pages/Recipes/store'
+let g:netrw_dirhist_4='/Users/onurirken/Projects/AwesomeProject'
